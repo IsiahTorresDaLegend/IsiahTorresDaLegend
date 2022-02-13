@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey, what's up everyone! 👋
+### ✨ Welcome to my page. I am a great programmer and pentester in the making. ✨
+### 🌱 Currently, I go to the University of Advancing Technology where I have been learning about HTML, JavaScript, and CSS.
+### 🌱 I plan on learning more languages as well such as C++ and Python.
+### 🔭 Please browse at some of the code I have made; Any tips, critiques, or ideas are always welcome!
+### ⚡ I am always looking to learn more and I hope to work with some brilliant people on some brilliant code one day.
+
 
 <!--
 **IsiahTorresDaLegend/IsiahTorresDaLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
